@@ -83,5 +83,8 @@
   "resolutions": {
     "jquery": "^2.2.3",
     "fastclick": "^1.0.6"
+  },
+  "dependencies": {
+    "tinymce": "tinymce-dist#^4.7.13"
   }
 }
